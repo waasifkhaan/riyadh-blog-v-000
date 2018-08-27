@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: rgba(255,300,255,.85)
+  background: rgba(255,255,255,.85)
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
